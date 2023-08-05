@@ -1,0 +1,46 @@
+body{
+    background-color: #f8f6ff;
+}
+header{
+    width: 1640px;
+    height: 48px;
+    background: #FFF;
+    display: inline-flex;
+    padding: 12px 140px;
+    align-items: center;
+   
+}
+.logo{
+    display: inline-flex;
+align-items: center;
+gap: 6px;
+padding-right: 1129px;
+}
+.profile{
+    display: flex;
+width: 79px;
+flex-direction: column;
+align-items: center;
+gap: 4px;
+}
+.surffing{
+    display: flex;
+width: 77px;
+flex-direction: column;
+align-items: center;
+gap: 4px;
+}
+.make{
+    display: flex;
+width: 79px;
+flex-direction: column;
+align-items: center;
+gap: 4px;
+}
+.alret{
+    display: flex;
+width: 77px;
+flex-direction: column;
+align-items: center;
+gap: 4px;
+}
